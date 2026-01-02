@@ -99,7 +99,7 @@ View clinic performance metrics.
 
 Your main dashboard with important statistics.
 
-![Dentist Dashboard](../screenshots/dentist-dashboard.png)
+![Dentist Dashboard](../screenshots/dashboard.png)
 
 - Important stats overview
 - Quick access to key features

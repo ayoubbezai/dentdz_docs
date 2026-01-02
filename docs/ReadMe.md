@@ -152,11 +152,11 @@ Begin managing appointments, patients, and operations with ease!
 
 | Dashboard | Patient Management |
 |:---------:|:------------------:|
-| ![Dashboard](../screenshots/dashboard-preview.png) | ![Patients](../screenshots/patient-list.png) |
+| ![Dashboard](../screenshots/dashboard.png) | ![Patients](../screenshots/patient-list.png) |
 
 | Appointments | Analytics |
 |:------------:|:---------:|
-| ![Appointments](../screenshots/appointments-appointmets.png) | ![Analytics](../screenshots/analytics-preview.png) |
+| ![Appointments](../screenshots/appointments-appointmets.png) | ![Analytics](../screenshots/analytics.png) |
 
 </div>
 
